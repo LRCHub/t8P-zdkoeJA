@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "for lovers who hesitate(주저하는 연인들을 위해)",
+  "base_artist": "JANNABI",
+  "createdAt": "2025-12-09T17:19:28.812604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "for lovers who hesitate(주저하는 연인들을 위해)",
+      "artist": "JANNABI",
+      "has_synced": true,
+      "path": "select/01_for_lovers_who_hesitate(주저하는_연인들을_위해)_JANNABI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "for lovers who hesitate(주저하는 연인들을 위해)",
+      "artist": "JANNABI",
+      "has_synced": true,
+      "path": "select/02_for_lovers_who_hesitate(주저하는_연인들을_위해)_JANNABI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "for lovers who hesitate",
+      "artist": "Jannabi",
+      "has_synced": false,
+      "path": "select/pl_01_for_lovers_who_hesitate_Jannabi.txt"
+    }
+  ]
+}
